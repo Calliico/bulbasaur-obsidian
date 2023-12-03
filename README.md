@@ -1,6 +1,6 @@
-![Vileplume pokemon](https://cdn.bulbagarden.net/upload/thumb/6/6a/045Vileplume.png/600px-045Vileplume.png)
+![Bulbasaur pokemon](https://bulbapedia.bulbagarden.net/wiki/File:Ash_Bulbasaur.png)
 
-# Vileplume for Obsidian
+# Bulbasaur for Obsidian
 A poisonous dark theme for [Obsidian](https://obsidian.md/), a tool for connected note taking.
 
 ![Screenshot of Vileplume for Obsidian](https://raw.githubusercontent.com/hungsu/vileplume-obsidian/main/Vileplume.png)
