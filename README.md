@@ -1,4 +1,4 @@
-![Bulbasaur pokemon]([https://bulbapedia.bulbagarden.net/wiki/File:Ash_Bulbasaur.png](https://archives.bulbagarden.net/media/upload/1/19/Ash_Bulbasaur.png))
+![Bulbasaur pokemon](https://archives.bulbagarden.net/media/upload/1/19/Ash_Bulbasaur.png)
 
 # Bulbasaur for Obsidian
 A poisonous dark theme for [Obsidian](https://obsidian.md/), a tool for connected note taking.
